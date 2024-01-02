@@ -1,0 +1,9 @@
+Joulupukki ei ymmärrä matematiikasta yhtään mitään ja päätät sekoittaa hänen päätään. Esittele pukille fibonacci lukujono. Tulosta jokainen luku omalle rivilleen ja aloita luvuilla 0 ja 1.
+
+Tulosta niin kauan, kunnes tulee vastaan luku, jonka neliöjuuri on kokonaisluku, 0 ja 1 poislukien. Tulosta myös katkon aiheuttanut luku.
+
+HUOM muutos!
+
+Tehtävä päivitetty pysähtymään ensimmäiseen neliöjuuri kokonaislukuun, sillä muita ei ole. Jos on pisteet tallennettu ennen muutosta, pisteet pysyvät. Mikäli muita ongelmia, tulkaa kysymään.
+
+Tulosta Fibonaccin lukujono ensimmäiseen lukuun asti, jonka neliöjuuri on kokonaisluku. Ota tämä luku mukaan, mutta älä sisällytä lukuja 0 ja 1 neliöjuuri vertailuun, tulosta ne kuitenkin. Tulosta jokainen luku omalle rivilleen.

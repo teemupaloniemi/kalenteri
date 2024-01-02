@@ -1,0 +1,3 @@
+This is the test file.
+Code should print all lines from this file.
+Lets see!

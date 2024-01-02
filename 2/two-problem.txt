@@ -1,0 +1,11 @@
+Joulupukin Neliöjuhla
+
+Joulupukin pajassa, joka sijaitsee lumisen vuoren huipulla, on valmistauduttu koko vuoden ajan joulun ihmeelliseen aikaan. Tänä vuonna Joulupukki haluaa tehdä jotain erityistä ja jännittävää - hän haluaa koristella koko Joulupukin kylän upeilla, loistavilla valoilla. Mutta tässä on pieni mutka matkassa: valot toimivat erikoisella taikavoimalla, joka syntyy täydellisistä neliöistä.
+
+Joulupukki on päättänyt, että jokaisen talon katolle asennetaan tietty määrä valoja, jotka vastaavat talon numeron neliöjuurta - mutta vain, jos se on täydellinen neliö! Esimerkiksi talo numero 4 saa 2 valoa (koska 2^2 = 4), mutta talo numero 8 jää ilman, koska sen neliöjuuri ei ole kokonaisluku.
+
+Pukki tarvitsee apuasi! Hän pyytää sinua kirjoittamaan ohjelman, joka auttaa häntä selvittämään, mitkä talot saavat nämä erityiset valot.
+
+Pukki luottaa sinuun - nämä taianomaiset valot tuovat iloa ja loistoa koko Joulumaahan!
+
+Tulosta väliltä 0-1000 ne kokonaisluvut, joiden neliöjuuret ovat kokonaislukuja. Tulosta jokainen luku omalle rivilleen.

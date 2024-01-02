@@ -1,0 +1,10 @@
+
+Joulupukin Plutolainen Postipulma
+Taustatarina
+
+Joulupukki, aina niin joviaali ja täynnä joulumieltä, löysi itsensä tämän vuoden joulusesongin alla kiperästä tilanteesta. Korvatunturin postihuoneessa oli vino pino kirjeitä, jotka olivat saapuneet kaukaa Plutolta. Näiden 500 kirjeen joukossa oli jokaisen plutolaisen lapsen sydäntä lähellä olevat joulutoiveet. Plutolaiset, tunnettuja järjestyksen rakastajina, asuvat nimittäin aakkosjärjestyksessä. Joulupukin tarkka silmä huomasi heti, että matkan varrella kirjeet olivat menneet sekaisin - aakkosjärjestys oli kadonnut kuin tuhka tuuleen!
+Tehtävänanto
+
+Tehtäväsi, kunnianarvoisa teekkarivelho, on auttaa Joulupukkia palauttamaan järjestys kirjeisiin. Sinun tulee laatia algoritmi, joka järjestää kirjeet uudelleen lähettäjien nimien mukaiseen aakkosjärjestykseen. Mutta ole varovainen!
+
+

@@ -1,0 +1,3 @@
+Joulupukin Viestintähaaste
+
+Joulupukki haluaa välittää viestejä tonttujen tehtaan ja joulupukin työhuoneen välillä. Hän tarvitsee jonkinlaisen ohjelman, johon tontut voivat kirjoittaa viestin tehtaallaan(syöteboxi) ja joulupukki voi nappia painamalla saada sen viestin sisällön työhuoneellaan(päivä 4, koodilaatikko). Joulupukki tarvitsee siis ohjelman, joka lukee syöteboxin sisällön, joka tallentuu tiedostoon "input.txt" ohjelmakoodin kansioon. Joulupukki haluaa myös, että ohjelma tulostaa tiedoston sisällön, koska tonttujen käsiala on joskus epäselvää. Saat tehtävästä pisteet vasta kun ajat tarkistimen tehtävän alta.
