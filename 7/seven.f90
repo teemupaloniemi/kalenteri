@@ -1,5 +1,5 @@
 PROGRAM FILE
-  INTEGER :: r,c,i,j,l,k,m(10)
+  INTEGER :: r,c,i,j,l,k,w,q,m(9,10)
   CHARACTER(len=9), DIMENSION(6)    :: words
   CHARACTER(len=1), DIMENSION(6,10) :: boxes
 
@@ -27,16 +27,28 @@ PROGRAM FILE
 
   DO k = 1, 6
     PRINT '(A)', '', words(k)
+    m = RESHAPE([0,0,0,0,0,0,0,0,0, & 
+    0,0,0,0,0,0,0,0,0, & 
+    0,0,0,0,0,0,0,0,0, & 
+    0,0,0,0,0,0,0,0,0, & 
+    0,0,0,0,0,0,0,0,0, & 
+    0,0,0,0,0,0,0,0,0, & 
+    0,0,0,0,0,0,0,0,0, & 
+    0,0,0,0,0,0,0,0,0, & 
+    0,0,0,0,0,0,0,0,0, & 
+    0,0,0,0,0,0,0,0,0], [9,10])
     DO l = 1, 9
-      m = [0,0,0,0,0,0,0,0,0,0]
       DO i = 1, 10
         DO j = 1, 6
           IF (boxes(j,i) == words(k)(l:l)) THEN
-            m(i) = 1
+            m(l,i) = 1
           END IF       
         END DO
       END DO
-      PRINT '((A) (A) 10(I0, 1X))',words(k)(l:l),' ', m
+    END DO
+    
+    DO w = 1, 9
+      WRITE(*, '(A, 1X, 10(I1, 1X))') words(k)(w:w), (m(w,q), q = 1, 10)
     END DO
   END DO 
   STOP
