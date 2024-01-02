@@ -1,0 +1,28 @@
+Joulupukki on pyytänyt tonttuja tekemään ison kasan puupalikka kirjain kuutioita. Tontut ovat pukin tietämättä saaneet palikat tehtyä etuajassa ja ovat ajankuluksi kisanneet siitä, kuka saa pisimmän sanan kasattua pinosta palikoita. Tonttujen keskuudessa kuuluu huhuja pitkistä sanoista, joita kuulemma on saatu tuotettua, mutta kukaan ei ole nähnyt niitä todistetusti. Auta tonttuja todistamaan nämä väitteet todeksi tai taruksi, tekemällä ohjelman, joka tarkistaa saako annetuista palikoista rakennettua haluttua sanaa.
+
+Jokaisessa puukuutiossa on joka sivulla eri kirjain ja erikoisuuksina kirjaimet 'M' ja 'W' voivat korvata toisensa, kun palikan vain kääntää ympäri. Puupalikkapino, josta etsitään haluttuja sanoja on annettu tehtävän alla ja sen perässä etsityt sanat.
+
+Tulosta ainoastaan ne sanat, jotka ovat mahdollisia muodostaa annetuilla palikoilla. Tuloista jokainen luotavissa oleva sana omalle rivilleen aakkosjärjestyksessä ja kokonaan isoilla kirjaimilla.
+
+Tässä 10 kpl palikoita, joista etsitään sanoja.
+
+    A, E, G, H, I, L
+    B, C, D, E, K, O
+    F, J, M, N, P, S
+    Q, R, T, U, V, P
+    L, Y, V, A, E, I
+    B, D, F, G, H, M
+    C, K, L, N, O, P
+    Q, S, T, U, V, W
+    L, Z, A, E, I, J
+    B, D, F, K, W, N
+
+Etsittävät sanat ovat:
+
+    QUICKSAND
+    MAMMONA
+    MAMMUTTI
+    VESIPULLO
+    AETHER
+    ALGO
+
